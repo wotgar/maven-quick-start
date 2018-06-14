@@ -1,0 +1,10 @@
+<project 
+	xmlns="http://maven.apache.org/POM/4.0.0" 
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 
+		http://maven.apache.org/maven-v4_0_0.xsd"> <!-- Standard Maven Namespace Einträge -->
+  <modelVersion>4.0.0</modelVersion> <!-- Auch Standard. Deckt sich mit den Namespace Einträgen -->
+  <groupId>clinic.programmming</groupId> <!-- Package Name -->
+  <artifactId>maven-quick-start</artifactId> <!-- Name der erstellten .jar Datei -->
+  <version>1.0</version> <!-- Versionsnummer der erstellten Datei -->
+</project>
